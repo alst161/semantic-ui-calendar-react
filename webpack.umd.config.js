@@ -6,9 +6,9 @@ const config = {
   },
   output: {
     path: path.resolve(__dirname, 'dist', 'umd'),
-    library: 'semantic-ui-calendar-react',
+    library: 'semantic-ui-datepicker-react',
     libraryTarget: 'umd',
-    filename: 'semantic-ui-calendar-react.js',
+    filename: 'semantic-ui-datepicker-react.js',
   },
   mode: 'production',
   module: {
